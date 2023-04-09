@@ -1,1 +1,1 @@
-proyecto de prueba de repositorio y clonarlo desde github
+proyecto de prueba de crear un repositorio y clonarlo desde github 
