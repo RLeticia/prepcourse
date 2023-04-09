@@ -1,2 +1,1 @@
-# prepcourse
-repositorio de prueba 
+proyecto de prueba de repositorio y clonarlo desde github
